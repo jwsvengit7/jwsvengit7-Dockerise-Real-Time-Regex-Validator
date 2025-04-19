@@ -202,6 +202,4 @@ docker exec -it nestjs_backend npm run test
 
 MIT – feel free to reuse this architecture for other event-driven systems!!
 
----
 
-Thank you SavannahTech for this great opportunity to build this project.
